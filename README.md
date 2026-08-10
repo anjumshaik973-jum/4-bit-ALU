@@ -29,9 +29,10 @@ An ALU is a combinational digital circuit that performs arithmetic and logical o
 - Verilog HDL
 - Icarus Verilog
 - EPWave / GTKWave (Waveform Analysis)
-- ## Waveform
+  ## Waveform
 
 The following waveform shows the simulation results of the 4-bit ALU.
 
-![4-bit ALU Waveform](4-bit ALU.png) 
+![4-bit ALU Waveform](4-bit ALU.png)
+
 
