@@ -10,7 +10,7 @@ An ALU is a combinational digital circuit that performs arithmetic and logical o
 - Combinational logic design
 - Supports arithmetic and logical operations
 - Carry output generation
-- Verified using simulation waveform~4bit-ALU. png
+- Verified using simulation waveform~4-bit ALU. png
 
 ## Operations Supported
 
